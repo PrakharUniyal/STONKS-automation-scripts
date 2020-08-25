@@ -1,0 +1,23 @@
+{
+  "name": "stonks",
+  "version": "1.0.0",
+  "description": "stonks-automation-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-Cell-IITMandi/STONKS-automation-scripts.git"
+  },
+  "author": "Prakhar Uniyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E-Cell-IITMandi/STONKS-automation-scripts/issues"
+  },
+  "homepage": "https://github.com/E-Cell-IITMandi/STONKS-automation-scripts#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0"
+  }
+}
